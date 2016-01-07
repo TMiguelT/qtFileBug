@@ -1,0 +1,2 @@
+/home/miguel/ClionProjects/QtTest/CMakeFiles/QtTest_automoc.dir
+/home/miguel/ClionProjects/QtTest/CMakeFiles/QtTest.dir
